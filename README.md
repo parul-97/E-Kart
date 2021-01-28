@@ -16,9 +16,9 @@
 
 **Start each microservice either in local or in docker:**
 
-**Local:** `shopping-cart/catalog-service> ./mvnw spring-boot:run`
+**Local:** `E-Kart/catalog-service> ./mvnw spring-boot:run`
 
-**Docker:** `shopping-cart> ./run.sh start <service>`
+**Docker:** `E-Kart> ./run.sh start <service>`
 
 Ex: `E-Kart> ./run.sh start catalog-service`
 
