@@ -1,3 +1,12 @@
+# Idea:
+The main idea is to create a platform for various small vendors to create their own websites without coding anything. Using the boilerplates we are providing to them to make it a reflection of their business.
+
+# Backstory:
+What started as a revolution in the E-commerce space has turned evil as time has passed. Amazon, Flipkart, Swiggy, Zomato all have turned the utopia of Internet shopping into a Nightmarish money minting business by taking a big cut for just hosting stuff that small businesses have to sell. For a good lot of these artists who have put their soul into their work, this big ‘tax’ by big E-commerce giants is unjust and cruel. To provide them with a voice, I have tried to create a no-code E-Commerce platform that could be scaled and can be used by small businesses to use these boilerplates and create dynamic websites to their own taste.
+
+# Target Group:
+Small Artists
+
 ## How to run?
 
 ### Build all modules:
